@@ -1,2 +1,2 @@
-# Java-Full-Stack-Project-Code
-This project is based on 'React + Spring Boot + MySQL DB'
+# Hi Everyone 👋👋, welcome to this Repo
+React + Spring Boot + MySQL DB => EM Service CRUD & API Integration Based Project
